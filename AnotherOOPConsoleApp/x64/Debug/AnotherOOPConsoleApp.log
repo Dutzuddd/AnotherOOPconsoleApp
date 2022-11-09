@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vlads\Desktop\workigOn\Cpp\test\AnotherOOPConsoleApp\AnotherOOPConsoleApp\Source.cpp(209,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vlads\Desktop\workigOn\Cpp\test\AnotherOOPConsoleApp\AnotherOOPConsoleApp\Source.cpp(261,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  AnotherOOPConsoleApp.vcxproj -> C:\Users\vlads\Desktop\workigOn\Cpp\test\AnotherOOPConsoleApp\x64\Debug\AnotherOOPConsoleApp.exe
